@@ -53,7 +53,7 @@ cout << "Nome: " << nome << " " << sobrenome << endl; (faz aparecer o nome no te
 -------------------------------------------------------------------------------------------------------------------------------------
 
 2 * pi * r
-const int PI = 3.1416; (para funcionar o const, tem que se retirar abaixo o pi = 4.1416;) 
+const float ou double (porque tem décimais) PI = 3.1416; (para funcionar o const, tem que se retirar abaixo o pi = 4.1416;) 
 const int PI = 2 (constantes têm que ser em maiúsculas)
 
 
@@ -63,7 +63,8 @@ PI = 4.1416;
 (não pode acontecer) 
 cout << X * PI * 5 << endl;
 
-int valor;
+float valor;
 
 cout << "indique o valor do raio: ";
-cin >> valor;
+cin >> valor; (pede o valor do raio no terminal)
+cout << X * PI * valor << endl;
