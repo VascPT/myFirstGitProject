@@ -41,3 +41,7 @@ float altura = 1.75;
 float peso;
 peso = 34.6; (pode ser determinado depois)
 
+char letra = 'a';
+char letra2;
+letra2 = 'b'; (pode ser determinado depois)
+
