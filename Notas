@@ -45,3 +45,7 @@ char letra = 'a';
 char letra2;
 letra2 = 'b'; (pode ser determinado depois)
 
+string nome = "Lucas";
+string sobrenome;
+sobrenome = "Santos"; (pode ser determinado depois)
+
