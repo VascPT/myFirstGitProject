@@ -53,12 +53,12 @@ cout << "Nome: " << nome << " " << sobrenome << endl; (faz aparecer o nome no te
 -------------------------------------------------------------------------------------------------------------------------------------
 
 2 * pi * r
-const int pi = 3.1416; (para funcionar o const, tem que se retirar abaixo o pi = 4.1416;)
-const int x = 2
+const int PI = 3.1416; (para funcionar o const, tem que se retirar abaixo o pi = 4.1416;) 
+const int PI = 2 (constantes têm que ser em maiúsculas)
 
 
-cout << x * pi * 5 << endl;
+cout << X * PI * 5 << endl;
 
-pi = 4.1416;
+PI = 4.1416;
 (não pode acontecer) 
-cout << x * pi * 5 << endl;
+cout << X * PI * 5 << endl;
