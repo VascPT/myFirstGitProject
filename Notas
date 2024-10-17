@@ -20,3 +20,9 @@ Divisão de números:
 cout << 3 / 3 << endl;
 Resto da divisão:
 cout << 5 % 3 << endl;
+
+Variáveis (sempre minúsculas ou camel case, nunca deve começar com números):
+int num1 = 5; ou int x = 5; ou int qntLivros = 5;
+cout << qntLivros * 2 << endl;
+cout << qntLivros + 5 << endl;
+cout << qntLivros - 3 << endl;
