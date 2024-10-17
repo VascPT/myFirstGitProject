@@ -62,3 +62,8 @@ cout << X * PI * 5 << endl;
 PI = 4.1416;
 (não pode acontecer) 
 cout << X * PI * 5 << endl;
+
+int valor;
+
+cout << "indique o valor do raio: ";
+cin >> valor;
