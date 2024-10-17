@@ -9,3 +9,14 @@ git add .
 git status
 git push
 git pull
+
+Adição de números:
+cout << 3 + 3 << endl;
+Subtração de números:
+cout << 3 - 3 << endl;
+Multiplicação de números:
+cout << 3 * 3 << endl;
+Divisão de números:
+cout << 3 / 3 << endl;
+Resto da divisão:
+cout << 5 % 3 << endl;
