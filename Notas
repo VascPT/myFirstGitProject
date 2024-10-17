@@ -23,6 +23,13 @@ cout << 5 % 3 << endl;
 
 Variáveis (sempre minúsculas ou camel case, nunca deve começar com números):
 int num1 = 5; ou int x = 5; ou int qntLivros = 5;
+int x;
+
+x = 25; (o valor da variável pode ser adicionado depois)
 cout << qntLivros * 2 << endl;
 cout << qntLivros + 5 << endl;
 cout << qntLivros - 3 << endl;
+cout << qntLivros / x << endl;
+
+
+bool isTrue = true;
