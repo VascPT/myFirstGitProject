@@ -4,3 +4,8 @@ Bloco de código -
 {"código"
 }
 
+Exemplos: git commit -m "TEXT"
+git add .
+git status
+git push
+git pull
