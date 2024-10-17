@@ -50,4 +50,15 @@ string sobrenome;
 sobrenome = "Santos"; (pode ser determinado depois)
 
 cout << "Nome: " << nome << " " << sobrenome << endl; (faz aparecer o nome no terminal)
+-------------------------------------------------------------------------------------------------------------------------------------
 
+2 * pi * r
+const int pi = 3.1416; (para funcionar o const, tem que se retirar abaixo o pi = 4.1416;)
+const int x = 2
+
+
+cout << x * pi * 5 << endl;
+
+pi = 4.1416;
+(não pode acontecer) 
+cout << x * pi * 5 << endl;
