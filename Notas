@@ -33,3 +33,11 @@ cout << qntLivros / x << endl;
 
 
 bool isTrue = true;
+bool isTrue = false;
+bool isHIgh;
+isHIgh = true;
+
+float altura = 1.75;
+float peso;
+peso = 34.6; (pode ser determinado depois)
+
