@@ -49,3 +49,5 @@ string nome = "Lucas";
 string sobrenome;
 sobrenome = "Santos"; (pode ser determinado depois)
 
+cout << "Nome: " << nome << " " << sobrenome << endl; (faz aparecer o nome no terminal)
+
