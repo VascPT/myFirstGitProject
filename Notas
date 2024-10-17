@@ -60,8 +60,7 @@ const int PI = 2 (constantes têm que ser em maiúsculas)
 cout << X * PI * 5 << endl;
 
 PI = 4.1416;
-(não pode acontecer) 
-cout << X * PI * 5 << endl;
+cout << X * PI * 5 << endl; Não pode acontecer se o valor for "const"
 
 float valor;
 
