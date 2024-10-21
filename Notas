@@ -123,3 +123,26 @@ int main(){
 
 }
 
+int time = 20;
+string result = (time < 18) ? "Good day." : "Good evening.";
+cout << result; 
+(maneira resumida de fazer if)
+
+
+int day;
+cout << "Digite um número de 1 a 3: ";
+cin >> day;
+
+ switch (day){
+     case 1:
+       cout << "Domingo" << endl;
+       break;
+     case 2:
+       cout << "Segunda" << endl;
+       break;
+     case 3:
+       cout << "Terça" << endl;
+       break;
+     default:
+       cout << "Dia inválido" << endl;
+ }
