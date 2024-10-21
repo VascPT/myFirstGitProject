@@ -103,7 +103,7 @@ int main(){
 
 }
 
-else if(exemplo) (só é executada se a afirmação anterior for falsa)
+else if(texto) (só é executada se a afirmação anterior for falsa)
 int main(){
     
     int x = 1;
