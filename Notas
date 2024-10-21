@@ -68,4 +68,21 @@ cout << "indique o valor do raio: ";
 cin >> valor; (pede o valor do raio no terminal)
 cout << X * PI * valor << endl;
 
-string xpto= "Exemplo"; 
+string xpto= "Exemplo";
+
+Operadores lógicos:
+==  Igual
+!=  Diferente
+>   Maior
+<   Menor
+>=  Maior ou igual
+<=  Menor ou igual
+
+int main(){
+
+    if( abc = 'a' ){
+        cout << "abc é igual a a" << endl;
+    }else{
+        cout << "abc é diferente de a" << endl;
+    }
+}
