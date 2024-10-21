@@ -104,13 +104,14 @@ int main(){
 }
 
 else if(texto) (só é executada se a afirmação anterior for falsa)
+
 int main(){
     
     int x = 1;
     int y = 5;
     int z = 3;
 
-    if( x == 2){
+    if( x == 2 ){
         cout << "x é igual a dois" << endl;
     }else if(y == 3){
         cout << "y é igual a três" << endl;
@@ -121,3 +122,4 @@ int main(){
     }
 
 }
+
