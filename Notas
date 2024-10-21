@@ -78,6 +78,9 @@ Operadores lógicos:
 >=  Maior ou igual
 <=  Menor ou igual
 
+&& (e)
+|| (ou)
+
 int main(){
 
     if( abc = 'a' ){
