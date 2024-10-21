@@ -83,9 +83,41 @@ Operadores lógicos:
 
 int main(){
 
+  int x = 1;
+  int y = 5;
+
     if( abc = 'a' ){
         cout << "abc é igual a a" << endl;
     }else{
         cout << "abc é diferente de a" << endl;
     }
+
+    int x = 1;
+    int y = 5;
+
+    if( x == 1 || y == 5){
+        cout << "um deles bate certo" << endl;
+    }else{
+        cout << "nop..." << endl;
+    }
+
+}
+
+else if(exemplo) (só é executada se a afirmação anterior for falsa)
+int main(){
+    
+    int x = 1;
+    int y = 5;
+    int z = 3;
+
+    if( x == 2){
+        cout << "x é igual a dois" << endl;
+    }else if(y == 3){
+        cout << "y é igual a três" << endl;
+    }else if(z == 4){
+        cout << "z é igual a quatro" << endl;
+    }else{
+        cout << "Nenhum dos valores é igual a 2, 3 ou 4" << endl;
+    }
+
 }
