@@ -67,3 +67,5 @@ float valor;
 cout << "indique o valor do raio: ";
 cin >> valor; (pede o valor do raio no terminal)
 cout << X * PI * valor << endl;
+
+string xpto= "Exemplo"; 
