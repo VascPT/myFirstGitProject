@@ -8,4 +8,9 @@ int main(){
     cout << "Introduza uma vogal: " << endl;
     cin >> vogal;
 
+    switch(vogal){
+        case 'a':
+        cout << "A vogal é: (a)(A)" << endl;
+        break;
+    }
 }
