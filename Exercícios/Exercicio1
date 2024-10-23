@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    char vogal;
+
+    cout << "Introduza uma vogal: " << endl;
+    cin >> vogal;
+
+}
