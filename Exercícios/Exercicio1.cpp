@@ -13,7 +13,6 @@ int main(){
     }else{ 
         cout << "A letra digitada não é uma vogal" << endl;
     }
-    }
     //switch(vogal){
       //  case 'a':
         //cout << "A vogal é: (a)(A)" << endl;
@@ -21,3 +20,16 @@ int main(){
         //case 'e':
         //cout << "A vogal é: (e)(E)" << endl;
         //break;
+
+        if(vogal == 'a'){
+            cout << "A vogal é: (a)(A)" << endl;
+        }else if(vogal == 'e'){
+            cout << "A vogal é (e)(E)" << endl;
+        }else if(vogal == 'i'){
+            cout << "A vogal é (i)(I)" << endl;
+        }else if(vogal == 'o'){
+            cout << "A vogal é (o)(O)" << endl;
+        }else if(vogal == 'u'){
+            cout << "A vogal é (u)(U)" << endl;
+        }
+        }
