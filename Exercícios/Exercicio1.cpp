@@ -31,5 +31,7 @@ int main(){
             cout << "A vogal é (o)(O)" << endl;
         }else if(vogal == 'u'){
             cout << "A vogal é (u)(U)" << endl;
+        }else{
+            cout << "A letra digitada não é uma vogal" << endl;
         }
         }
