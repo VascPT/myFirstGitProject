@@ -5,6 +5,6 @@ using namespace std;
 int main(){
     for (int x=0; x<=10; x++){
         break;
-        cout << "o x tem o valor de :" << x << endl;
+        cout << " o x tem o valor de : " << x << endl;
     }
 }
