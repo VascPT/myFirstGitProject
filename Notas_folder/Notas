@@ -185,4 +185,18 @@ cin >> day;
         cout << "Hello, World!" << endl;
     }
   }
+------------------------------------------------------------------------------------------------------
+  #include <iostream>
   
+  using namespace std;
+
+  int numerosImpares[10];
+  int numerosPares[10] = {0,2,4,6,8,10,12,14,16,18};
+
+  string nomeDosAlunos[] = {"Joao", "Maria", "Jose"};
+
+  int main(){
+
+    cout << nomeDosAlunos[1] << endl; (faz aparecer o nome "Maria" no terminal)
+    return 0;
+  }
