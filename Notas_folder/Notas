@@ -200,3 +200,18 @@ cin >> day;
     cout << nomeDosAlunos[1] << endl; (faz aparecer o nome "Maria" no terminal)
     return 0;
   }
+  -----------------------------------------------------------------------------------------------------
+
+  using namespace std;
+  
+  struct Aluno{
+    string nome;
+    int idade;
+    string turma;
+  };
+
+  int main(){
+
+    Aluno xtp5676
+    xtp5676. (aparece as variáveis do "struct")
+  }
