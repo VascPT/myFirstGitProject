@@ -163,3 +163,14 @@ cin >> day;
 
     return 0;
   }
+
+  int main(){
+
+    int x = 0;
+
+    do {
+        cout << x << "Loop infinito" << endl;
+    } while (x <= 10);
+
+    return 0;
+  }
